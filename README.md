@@ -1,4 +1,4 @@
-# 🧪 Qubika Sports Club Management - QA Automation Challenge
+# 🧪 QA Automation Challenge
 
 This project automates a full end-to-end flow for the **Qubika Sports Club Management System**, using API + UI testing with Java, Selenium, RestAssured, and TestNG.
 
