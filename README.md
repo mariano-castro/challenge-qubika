@@ -43,8 +43,8 @@ This project automates a full end-to-end flow for the **Qubika Sports Club Manag
 
 ### 🛠 Build the project
 
-mvn clean install
+`mvn clean install`
 
 ### 🧪 Run the E2E test
 
-mvn test -Dtest=ui.EndToEndFlowTest
+`mvn test -Dtest=ui.EndToEndFlowTest`
