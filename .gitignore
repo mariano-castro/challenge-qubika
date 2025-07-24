@@ -30,3 +30,6 @@ surefire-reports/
 # System files
 .DS_Store
 Thumbs.db
+
+# API data
+user-data.json
